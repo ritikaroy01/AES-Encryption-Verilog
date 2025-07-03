@@ -56,6 +56,7 @@ Each round includes:
 | `sbox.v`             | Substitution box (ROM-based)       |
 | `inverseSbox.v`      | Inverse substitution box           |
 | `AES Decrypt Output,wcfg`      | Waveform Output           |
+| `AES Verilog File Descriptions`      | PDF Explaining Purpose of each file        |
 
 ### 🔹 AES Transformations
 
