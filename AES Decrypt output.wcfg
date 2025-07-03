@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="AES_Decrypt_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="AES_Decrypt_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,910 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,009 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="157"></NameColumnWidth>
+      <ValueColumnWidth column_width="177"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/AES_Decrypt_tb/in1" type="array">
+      <obj_property name="ElementShortName">in1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">in1[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/out1" type="array">
+      <obj_property name="ElementShortName">out1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">out1[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/key1" type="array">
+      <obj_property name="ElementShortName">key1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key1[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/in2" type="array">
+      <obj_property name="ElementShortName">in2[127:0]</obj_property>
+      <obj_property name="ObjectShortName">in2[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/out2" type="array">
+      <obj_property name="ElementShortName">out2[127:0]</obj_property>
+      <obj_property name="ObjectShortName">out2[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/key2" type="array">
+      <obj_property name="ElementShortName">key2[191:0]</obj_property>
+      <obj_property name="ObjectShortName">key2[191:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/in3" type="array">
+      <obj_property name="ElementShortName">in3[127:0]</obj_property>
+      <obj_property name="ObjectShortName">in3[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/out3" type="array">
+      <obj_property name="ElementShortName">out3[127:0]</obj_property>
+      <obj_property name="ObjectShortName">out3[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AES_Decrypt_tb/key3" type="array">
+      <obj_property name="ElementShortName">key3[255:0]</obj_property>
+      <obj_property name="ObjectShortName">key3[255:0]</obj_property>
+   </wvobject>
+</wave_config>
