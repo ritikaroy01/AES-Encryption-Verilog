@@ -55,6 +55,7 @@ Each round includes:
 | `keyExpansion.v`     | Key schedule for 10 rounds         |
 | `sbox.v`             | Substitution box (ROM-based)       |
 | `inverseSbox.v`      | Inverse substitution box           |
+| `AES Decrypt Output,wcfg`      | Waveform Output           |
 
 ### 🔹 AES Transformations
 
